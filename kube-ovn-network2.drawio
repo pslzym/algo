@@ -34,6 +34,24 @@
         <mxCell id="oqYsNQT4M92ut37mKfUW-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="290" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="oqYsNQT4M92ut37mKfUW-12" value="ovn-default" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="268" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oqYsNQT4M92ut37mKfUW-13" value="join" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="268" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oqYsNQT4M92ut37mKfUW-14" value="ovn-external" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="268" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oqYsNQT4M92ut37mKfUW-15" value="pod 默认网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5" y="378" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oqYsNQT4M92ut37mKfUW-16" value="pod 访问node" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="378" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oqYsNQT4M92ut37mKfUW-17" value="访问外部网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="378" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
